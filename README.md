@@ -1,5 +1,5 @@
 # Snake_JS
-Snake game 
+Snake game (https://faycal13.github.io/Snake_JS/)
 ## Built With
 * [JavaScript]
 ## Author
