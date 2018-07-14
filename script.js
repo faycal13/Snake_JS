@@ -12,7 +12,7 @@ window.onload = function () {
   let score;
   let time;
 
-innit();
+  innit();
 
 function innit() {
   let canvas = document.createElement('canvas');
@@ -202,7 +202,7 @@ function Apple(position) {
   };
   this.isOnSnake = function(snakeToChek) {
     let isOnSnake = false;
-    for (var i = 0; i < snakeToChek.length; i++) {
+    for (var i = 0; i < snakeToChek.body.length; i++) {
       if (this.position[0] === snakeToChek.body[i][0] && this.position[1] === snakeToChek.body[i][1]) {
         isOnSnake = true;
       }
