@@ -4,5 +4,5 @@
 ## Built With
 * [JavaScript]
 ## Author
-* **Fayçal Dali** 
+* **[Fayçal Dali]** (https://github.com/faycal13)
 * [faycal13](https://github.com/faycal13)
