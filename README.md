@@ -5,4 +5,4 @@
 * [JavaScript]
 ## Author
 * **Fayçal Dali** 
- [faycal13](https://github.com/faycal13)
+* [faycal13](https://github.com/faycal13)
