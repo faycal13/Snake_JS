@@ -1,6 +1,6 @@
 # Snake_JS
 ## Check It Out !! 
-Snake game https://faycal13.github.io/Snake_JS/
+ https://faycal13.github.io/Snake_JS/
 ## Built With
 * [JavaScript]
 ## Author
